@@ -1,0 +1,13 @@
+h1{
+    background-color: blue;
+    color: white;
+}
+p{
+    background-color: #f6f6f6;
+}
+
+.prettyparagraph{
+   background-color: aqua; 
+   border-radius: 20px;
+   padding: 20px;
+}
